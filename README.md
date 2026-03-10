@@ -37,25 +37,23 @@ I’m always open to collaborating on **impactful AI and Machine Learning projec
 🩺 HealthTech  
 
 ---
-## 💻 Tools & Technologies
+## 💻 Tools & Technologies 
 
-### 🔧 Languages
-<img src="https://skillicons.dev/icons?i=python,java, r, html, javascript, css"/>
+### 🔧 Languages 
+Python • Java • R • HTML • CSS • JavaScript
 
-### 🧰 Libraries & Frameworks
-<img src="https://skillicons.dev/icons?i=tensorflow, keras, scikitlearn, matplotlib, pytorch,opencv"/>
+### 🧰 Libraries & Frameworks 
+TensorFlow • PyTorch • OpenCV • Pandas • NumPy • Scikit-Learn • 
+MatplotLib • Seaborn • Flask • WebGL
 
-### 📊 Data Tools
-<img src="https://skillicons.dev/icons?i=python"/>
+### 🗄 Databases 
+MySQL • MongoDB
 
-### 🗄 Databases
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+### 🧰 Tools 
+GitHub • Jupyter Notebook • VS Code • Jupyter Notebook • Google Colab
 
-### 🧰 Tools
-<img src="https://skillicons.dev/icons?i=,github,vscode,jupyter"/>
-
-### 💻 Operating Systems
-<img src="https://skillicons.dev/icons?i=windows"/>
+### 💻 Operating Systems 
+Windows
 
 ---
 
@@ -63,7 +61,7 @@ I’m always open to collaborating on **impactful AI and Machine Learning projec
 <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/aabaacbf-46a4-4044-9862-7658650a09b7" />
 
 
-“Debugging is like being the detective in a crime movie where you are also the culprit.”
+“Most programmers don't fear bugs — they fear the moment when the code works but they don't know why.”
 
 ---
 
