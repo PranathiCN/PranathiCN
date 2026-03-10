@@ -60,11 +60,14 @@ I’m always open to collaborating on **impactful AI and Machine Learning projec
 ---
 
 ## 🎯 Fun Fact
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/aabaacbf-46a4-4044-9862-7658650a09b7" />
+
 
 “Debugging is like being the detective in a crime movie where you are also the culprit.”
 
 ---
 
 ## 🌐 Let's Connect
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/8a3f7d27-b284-4fc6-abdb-7fd076803319" />
 
 Always happy to connect with people interested in **AI, technology, and research**.
